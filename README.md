@@ -10,4 +10,4 @@
 
 ## Full Books
 ### 2017-08-14 - 2017-08-20
-* Clean Code: A Handbook of Agile Software Craftsmanship
+* Go in Practice
