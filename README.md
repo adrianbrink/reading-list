@@ -2,6 +2,10 @@
 
 ## Papers
 ### 2017-08-13
+* Analysis of an Electronic Voting System
+* Bitcoin: A Peer-to-Peer Electronic Cash System
+
+### 2017-08-14
 * Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol
 
 ## Summary Books
