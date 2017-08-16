@@ -14,4 +14,8 @@
 
 ## Full Books
 ### 2017-08-14 - 2017-08-20
+* Coders at Work
+
+### Later
+* Founders at Work: Stories of Startups' Early Days
 * Go in Practice
