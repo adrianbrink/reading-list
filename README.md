@@ -14,9 +14,11 @@
 
 ## Full Books
 ### 2017-08-14 - 2017-08-20
+* Go in Practice - done
 * Coders at Work
 
 ### Later
+* The Plateau Effect
 * Founders at Work: Stories of Startups' Early Days
-* Go in Practice
+* Clean Code
 * Writers at Work
