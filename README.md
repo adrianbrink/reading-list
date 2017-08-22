@@ -22,3 +22,4 @@
 * Founders at Work: Stories of Startups' Early Days
 * Clean Code
 * Writers at Work
+* Red Team: How to Succeed By Thinking Like the Enemy
