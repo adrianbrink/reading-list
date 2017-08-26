@@ -23,3 +23,4 @@
 * Clean Code
 * Writers at Work
 * Red Team: How to Succeed By Thinking Like the Enemy
+* The Elements of Style
