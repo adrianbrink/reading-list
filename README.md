@@ -1,6 +1,7 @@
 # reading-list
 
 ## Papers
+* Why functional programming matters
 ### 2017-08-13
 * Analysis of an Electronic Voting System
 * Bitcoin: A Peer-to-Peer Electronic Cash System
